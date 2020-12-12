@@ -2,7 +2,7 @@
 
 20/12/09~
 
-## 🎨 What is the Color pallete canvas?
+## 🎨 What is Color pallete canvas?
 
 This web Application is for artists, specially twitter users.
 
@@ -10,7 +10,7 @@ This web Application is for artists, specially twitter users.
 
 - [ ] Color palette of canvas will change at every browser open.
 - [ ] User can save their canvas image or share to SNS simply.
-- [ ] Every Color palette have thier own ID, and user can share and read palette ID.
+- [ ] Every Color palette has their own ID, and user can share and read palette ID.
 
 ### TODO
 
